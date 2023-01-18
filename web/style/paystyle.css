@@ -1,0 +1,15 @@
+.header {
+    position: fixed;
+    top: 0;
+    padding: 0;
+    width: 100%;
+    z-index: 1; /* 다른 요소들보다 앞으로 나오게 */
+    } 
+    인라인 블록 요소 가운데 정렬
+    
+    .section {
+    text-align: center;
+    }
+     .section.col {
+    display: inline-block;
+    }
