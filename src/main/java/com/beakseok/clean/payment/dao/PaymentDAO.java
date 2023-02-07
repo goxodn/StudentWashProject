@@ -19,7 +19,7 @@ public class PaymentDAO {
     String dbURL = "jdbc:mysql://goxodn.cafe24.com:3306/goxodn";
 
     String dbID = "goxodn";
-    String dbPW = "a!29275311";
+    String dbPW = "rlaxodn1";
 
     
     //영수증 넣기

@@ -16,7 +16,7 @@ public class UserDAO {
     String dbURL = "jdbc:mysql://goxodn.cafe24.com:3306/goxodn";
 
     String dbID = "goxodn";
-    String dbPW = "a!29275311";
+    String dbPW = "rlaxodn1";
 
     public int create_user_id_check(User user) {
 

@@ -21,7 +21,7 @@ public class ReservationDAO {
     String dbURL = "jdbc:mysql://goxodn.cafe24.com:3306/goxodn";
 
     String dbID = "goxodn";
-    String dbPW = "a!29275311";
+    String dbPW = "rlaxodn1";
 
     //예약 확인 가능한지 여부 확인
     public int reservationInquiry(String reservationMachineNum, String reservationTime, String reservationDate, int studentLevelNum) {
